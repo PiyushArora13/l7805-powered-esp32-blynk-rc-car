@@ -25,13 +25,6 @@ This project features a smart remote control car powered by the ESP32 microcontr
 | N20 6V 200 RPM Motors       | Drive wheels                    |
 | Chassis & Wheels            | Mechanical body and mobility    |
 
-## Getting Started
-
-1. Install the Arduino IDE and ESP32 board support
-2. Download and open the `ESP32_Blynk_RC_Car.ino` sketch
-3. Configure your WiFi and Blynk auth token in the code
-4. Upload the code to your ESP32
-5. Power your car with a 12V battery and start controlling via Blynk
 
 ## Future Improvements
 
