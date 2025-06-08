@@ -1,9 +1,6 @@
 # l7805-powered-esp32-blynk-rc-car
 Powered by ESP32 and regulated with L7805, this Blynk-enabled remote control car offers seamless IoT-based mobility. Using a 12V battery and efficient power management, it delivers reliable performance and easy wireless control for smart robotics and DIY enthusiasts.
 
-
-# ESP32 Blynk Remote Control Car with L7805
-
 ## Overview
 
 This project features a smart remote control car powered by the ESP32 microcontroller and managed wirelessly via the Blynk IoT platform. Using a 12V battery pack and an L7805 voltage regulator for stable power supply, the car delivers reliable and efficient performance. It’s perfect for DIY enthusiasts interested in IoT-enabled robotics.
